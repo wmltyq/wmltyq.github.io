@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://wmltyq.gitee.io/
+url: https://lovetech.coding.me/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -90,5 +90,5 @@ theme: indigo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://gitee.com/wmltyq/wmltyq.git
+  repo: https://git.dev.tencent.com/LoveTech/lovetech.git
   branch: master
