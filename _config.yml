@@ -90,5 +90,7 @@ theme: indigo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@git.dev.tencent.com:LoveTech/lovetech.git
+  repo: 
+    coding: git@git.dev.tencent.com:LoveTech/lovetech.git
+    github: git@github.com:wmltyq/wmltyq.github.io.git
   branch: master
