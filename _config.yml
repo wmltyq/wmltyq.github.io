@@ -4,7 +4,7 @@
 
 # Site
 title: 王明
-subtitle:
+subtitle: Talk is cheap, show me the code.
 description: 编程知识分享
 keywords:
 author: 王明
@@ -40,7 +40,7 @@ external_link:
   exclude:
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
