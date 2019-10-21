@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: wmltyq
+title: 王明
 subtitle:
 description: 编程知识分享
 keywords:
@@ -90,5 +90,5 @@ theme: indigo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://git.dev.tencent.com/LoveTech/lovetech.git
+  repo: git@git.dev.tencent.com:LoveTech/lovetech.git
   branch: master
