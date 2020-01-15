@@ -12,21 +12,20 @@ menu:
     text: 主页
     url: /
   archives:
+    text: 归档
     url: /archives
   tags:
+    text: 标签
     url: /tags
   th-list:
-    text: Categories
+    text: 分类
     url: /categories
   github:
-    url: https://github.com/yscoder
+    url: https://github.com/wmltyq
     target: _blank
   weibo:
-    url: http://www.weibo.com/ysweb
+    url: https://weibo.com/wmltyq
     target: _blank
-  link:
-    text: 测试
-    url: /custom
 
 # 你的头像url
 avatar: /img/avatar.jpg
@@ -38,7 +37,7 @@ brand: /img/brand.jpg
 favicon: /favicon.ico
 
 # email
-email: 634206017@qq.com
+email: wmltyq@qq.com
 
 # 设置 Android L Chrome 浏览器状态栏颜色
 color: '#3F51B5'
